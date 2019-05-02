@@ -1,0 +1,26 @@
+{
+  "name": "learn_jest",
+  "version": "1.0.0",
+  "description": "my attempt to do jest the TTD way",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Foscat/learn_Jest.git"
+  },
+  "author": "K-Fizzle enterprises",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Foscat/learn_Jest/issues"
+  },
+  "homepage": "https://github.com/Foscat/learn_Jest#readme",
+  "dependencies": {
+    "jest": "^24.7.1",
+    "jshint": "^2.10.2"
+  }
+}
